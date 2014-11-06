@@ -382,7 +382,7 @@
   <project path="packages/apps/InCallUI" name="crdroidandroid/android_packages_apps_InCallUI" remote="github" revision="cm-11.0" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
-  <project path="packages/apps/Mms" name="crdroidandroid/android_packages_apps_Mms" remote="github" revision="cm-11.0" />
+  <project path="packages/apps/Mms" name="crdroidandroid/android_packages_apps_Mms-caf" remote="github" revision="cm-11.0" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="packages/apps/PackageInstaller" name="crdroidandroid/android_packages_apps_PackageInstaller" remote="github" revision="cm-11.0" />
