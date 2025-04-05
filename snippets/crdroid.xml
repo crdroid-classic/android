@@ -33,6 +33,7 @@
   <project path="frameworks/native" name="crdroid-classic/android_frameworks_native" remote="crdroid" />
   <project path="frameworks/support" name="crdroidandroid/android_frameworks_support" remote="crdroid" />
   <project path="libcore" name="crdroid-classic/android_libcore" remote="crdroid" />
+  <project path="packages/apps/Bluetooth" name="crdroid-classic/android_packages_apps_Bluetooth" remote="crdroid" />
   <project path="packages/apps/CMParts" name="crdroidandroid/android_packages_apps_CMParts" remote="crdroid" />
   <project path="packages/apps/Contacts" name="crdroid-classic/android_packages_apps_Contacts" remote="crdroid" />
   <project path="packages/apps/ContactsCommon" name="crdroid-classic/android_packages_apps_ContactsCommon" remote="crdroid" />
