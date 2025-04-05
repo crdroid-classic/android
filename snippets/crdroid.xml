@@ -17,11 +17,13 @@
   <project path="external/jemalloc" name="crdroidandroid/android_external_jemalloc" remote="crdroid" />
   <project path="external/libavc" name="crdroid-classic/android_external_libavc" remote="crdroid" />
   <project path="external/libjpeg-turbo" name="crdroid-classic/android_external_libjpeg-turbo" remote="crdroid" />
+  <project path="external/libnfc-nci" name="crdroid-classic/android_external_libnfc-nci" remote="crdroid" />
   <project path="external/libpng" name="crdroid-classic/android_external_libpng" remote="crdroid" />
   <project path="external/libunwind_llvm" name="crdroidandroid/android_external_libunwind_llvm" remote="crdroid" />
   <project path="external/libxml2" name="crdroid-classic/android_external_libxml2" remote="crdroid" />
   <project path="external/mdnsresponder" name="crdroidandroid/android_external_mdnsresponder" remote="crdroid" />
   <project path="external/skia" name="crdroid-classic/android_external_skia" remote="crdroid" />
+  <project path="external/sonivox" name="crdroid-classic/android_external_sonivox" remote="crdroid" />
   <project path="external/sqlite" name="LineageOS/android_external_sqlite" />
   <project path="external/v8" name="crdrid-classic/android_external_v8" remote="crdroid" />
   <project path="external/zlib" name="crdroidandroid/android_external_zlib" remote="crdroid" />
