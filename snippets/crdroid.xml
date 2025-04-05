@@ -25,8 +25,10 @@
   <project path="external/skia" name="crdroid-classic/android_external_skia" remote="crdroid" />
   <project path="external/sonivox" name="crdroid-classic/android_external_sonivox" remote="crdroid" />
   <project path="external/sqlite" name="LineageOS/android_external_sqlite" />
-  <project path="external/v8" name="crdrid-classic/android_external_v8" remote="crdroid" />
+  <project path="external/tremolo" name="crdroid-classic/android_external_tremolo" remote="crdroid" />
+  <project path="external/v8" name="crdroid-classic/android_external_v8" remote="crdroid" />
   <project path="external/zlib" name="crdroidandroid/android_external_zlib" remote="crdroid" />
+  <project path="frameworks/av" name="crdroid-classic/android_frameworks_av" remote="crdroid" />
   <project path="frameworks/base" name="crdroid-classic/android_frameworks_base" remote="crdroid" />
   <project path="frameworks/native" name="crdroid-classic/android_frameworks_native" remote="crdroid" />
   <project path="frameworks/support" name="crdroidandroid/android_frameworks_support" remote="crdroid" />
@@ -42,6 +44,7 @@
   <project path="packages/apps/DUI" name="crdroidandroid/android_packages_apps_DUI" remote="crdroid" />
   <project path="packages/apps/ExactCalculator" name="crdroid-classic/android_packages_apps_ExactCalculator" remote="crdroid" />
   <project path="packages/apps/FMRadio" name="crdroid-classic/android_packages_apps_FMRadio" remote="crdroid" />
+  <project path="packages/apps/KeyChain" name="crdroid-classic/android_packages_apps_KeyChain" remote="crdroid" />
   <project path="packages/apps/Messaging" name="crdroid-classic/android_packages_apps_Messaging" remote="crdroid" />
   <project path="packages/apps/Nfc" name="crdroid-classic/android_packages_apps_Nfc" remote="crdroid" />
   <project path="packages/apps/OmniStyle" name="crdroidandroid/android_packages_apps_OmniStyle" remote="crdroid" />
