@@ -27,7 +27,7 @@
   <project path="external/sqlite" name="LineageOS/android_external_sqlite" />
   <project path="external/tremolo" name="crdroid-classic/android_external_tremolo" remote="crdroid" />
   <project path="external/v8" name="crdroid-classic/android_external_v8" remote="crdroid" />
-  <project path="external/zlib" name="crdroidandroid/android_external_zlib" remote="crdroid" />
+  <project path="external/zlib" name="crdroid-classic/android_external_zlib" remote="crdroid" />
   <project path="frameworks/av" name="crdroid-classic/android_frameworks_av" remote="crdroid" />
   <project path="frameworks/base" name="crdroid-classic/android_frameworks_base" remote="crdroid" />
   <project path="frameworks/minikin" name="crdroid-classic/android_frameworks_minikin" remote="crdroid" />
