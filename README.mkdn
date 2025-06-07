@@ -11,9 +11,9 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/crdroidandroid/android.git -b cm-11.0
+    $ repo init -u https://github.com/crdroid-classic/android.git -b 4.4 --git-lfs --depth=1
 
 
 sync repo :
 
-    $ repo sync
+    $ repo sync -c -j$(nproc) --force-sync --no-clone-bundle --no-repo-verify --no-tags --optimized-fetch
