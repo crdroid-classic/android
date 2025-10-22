@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- crDroid additions -->
-  <project path="android" name="crdroidandroid/android" remote="crdroid" />
+  <project path="android" name="crdroid-classic/android" remote="crdroid" />
 
   <project path="art" name="crdroidandroid/android_art" remote="crdroid" />
 
@@ -10,7 +10,7 @@
 
   <project path="bootable/recovery" name="crdroidandroid/android_bootable_recovery" remote="crdroid" />
 
-  <project path="build/make" name="crdroidandroid/android_build" remote="crdroid" >
+  <project path="build/make" name="crdroid-classic/android_build" remote="crdroid" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -42,8 +42,8 @@
   <project path="external/libvpx" name="crdroidandroid/android_external_libvpx" remote="crdroid" />
   <project path="external/zlib" name="crdroidandroid/android_external_zlib" remote="crdroid" />
 
-  <project path="frameworks/av" name="crdroidandroid/android_frameworks_av" remote="crdroid" />
-  <project path="frameworks/base" name="crdroidandroid/android_frameworks_base" remote="crdroid" />
+  <project path="frameworks/av" name="crdroid-classic/android_frameworks_av-8.1" remote="crdroid" />
+  <project path="frameworks/base" name="crdroid-classic/android_frameworks_base" remote="crdroid" />
   <project path="frameworks/libs/net" name="crdroidandroid/android_frameworks_libs_net" remote="crdroid" />
   <project path="frameworks/libs/systemui" name="crdroidandroid/android_frameworks_libs_systemui" remote="crdroid" />
   <project path="frameworks/native" name="crdroidandroid/android_frameworks_native" remote="crdroid" />
@@ -74,9 +74,9 @@
   <project path="packages/apps/LineageParts" name="crdroidandroid/android_packages_apps_LineageParts" remote="crdroid" />
   <project path="packages/apps/Matlog" name="crdroidandroid/android_packages_apps_Matlog" remote="crdroid" />
   <project path="packages/apps/Messaging" name="crdroidandroid/android_packages_apps_Messaging" remote="crdroid" />
-  <project path="packages/apps/Nfc" name="crdroidandroid/android_packages_apps_Nfc" remote="crdroid" />
+  <project path="packages/apps/Nfc" name="crdroid-classic/android_packages_apps_Nfc-12" remote="crdroid" />
   <project path="packages/apps/Profiles" name="crdroidandroid/android_packages_apps_Profiles" remote="crdroid" />
-  <project path="packages/apps/Settings" name="crdroidandroid/android_packages_apps_Settings" remote="crdroid" />
+  <project path="packages/apps/Settings" name="crdroid-classic/android_packages_apps_Settings" remote="crdroid" />
   <project path="packages/apps/SetupWizard" name="crdroidandroid/android_packages_apps_SetupWizard" remote="crdroid" />
   <project path="packages/apps/SimpleDeviceConfig" name="crdroidandroid/android_packages_apps_SimpleDeviceConfig" remote="crdroid" />
   <project path="packages/apps/ThemePicker" name="crdroidandroid/android_packages_apps_ThemePicker" remote="crdroid" />
@@ -95,7 +95,7 @@
   <!-- Clang 14 version 14.0.2 -->
   <project path="prebuilts/clang/host/linux-x86/clang-latest" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r445002" remote="crdroid-gitlab" />
 
-  <project path="system/bt" name="crdroidandroid/android_system_bt" remote="crdroid" />
+  <project path="system/bt" name="crdroid-classic/android_system_bt-12" remote="crdroid" />
   <project path="system/core" name="crdroidandroid/android_system_core" remote="crdroid" />
   <project path="system/libhwbinder" name="crdroidandroid/android_system_libhwbinder" remote="crdroid" />
   <project path="system/memory/lmkd" name="crdroidandroid/android_system_memory_lmkd" remote="crdroid" />
