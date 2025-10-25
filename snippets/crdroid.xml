@@ -56,7 +56,7 @@
   <project path="hardware/qcom-caf/sm8150/media" name="crdroidandroid/android_hardware_qcom_media" revision="12.1-caf-sm8150" />
   <project path="hardware/qcom-caf/wlan" name="crdroidandroid/android_hardware_qcom_wlan" revision="12.1-caf" />
 
-  <project path="libcore" name="crdroidandroid/android_libcore" remote="crdroid" />
+  <project path="libcore" name="crdroid-classic/android_libcore" remote="crdroid" />
 
   <project path="lineage-sdk" name="crdroid-classic/android_lineage-sdk" remote="crdroid" />
 
