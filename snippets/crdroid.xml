@@ -85,7 +85,7 @@
   <project path="packages/inputmethods/LatinIME" name="crdroidandroid/android_packages_inputmethods_LatinIME" remote="crdroid" />
   <project path="packages/modules/Connectivity" name="crdroidandroid/android_packages_modules_Connectivity" remote="crdroid" />
   <project path="packages/modules/Permission" name="crdroid-classic/android_packages_modules_Permission" remote="crdroid" />
-  <project path="packages/modules/Wifi" name="crdroidandroid/android_packages_modules_Wifi" remote="crdroid" />
+  <project path="packages/modules/Wifi" name="crdroid-classic/android_packages_modules_Wifi" remote="crdroid" />
   <project path="packages/services/Telecomm" name="crdroid-classic/android_packages_services_Telecomm" remote="crdroid" />
   <project path="packages/services/Telephony" name="crdroidandroid/android_packages_services_Telephony" remote="crdroid" />
 
