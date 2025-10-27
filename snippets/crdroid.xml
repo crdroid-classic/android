@@ -60,7 +60,7 @@
 
   <project path="lineage-sdk" name="crdroid-classic/android_lineage-sdk" remote="crdroid" />
 
-  <project path="packages/apps/AudioFX" name="crdroidandroid/android_packages_apps_AudioFX" remote="crdroid" />
+  <project path="packages/apps/AudioFX" name="crdroid-classic/android_packages_apps_AudioFX" remote="crdroid" />
   <project path="packages/apps/Bluetooth" name="crdroid-classic/android_packages_apps_Bluetooth-12" remote="crdroid" />
   <project path="packages/apps/Contacts" name="crdroidandroid/android_packages_apps_Contacts" remote="crdroid" />
   <project path="packages/apps/crDroidSettings" name="crdroidandroid/android_packages_apps_crDroidSettings" remote="crdroid" />
