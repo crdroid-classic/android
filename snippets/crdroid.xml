@@ -80,7 +80,7 @@
   <project path="system/extras/su" name="crdroid-classic/android_system_extras_su" remote="crdroid" />
   <project path="system/sepolicy" name="crdroidandroid/android_system_sepolicy" remote="crdroid" />
 
-  <project path="vendor/addons" name="crdroid-classic/android_vendor_addons" remote="crdroid" />
+  <project path="vendor/addons" name="crdroidandroid/android_vendor_addons" remote="crdroid" />
   <project path="vendor/lineage" name="crdroid-classic/android_vendor_crdroid" remote="crdroid" />
 
 </manifest>
