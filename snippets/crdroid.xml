@@ -37,6 +37,7 @@
   <project path="frameworks/base" name="crdroid-classic/android_frameworks_base" remote="crdroid" />
   <project path="frameworks/minikin" name="crdroid-classic/android_frameworks_minikin" remote="crdroid" />
   <project path="frameworks/native" name="crdroid-classic/android_frameworks_native" remote="crdroid" />
+  <project path="frameworks/opt/telephony" name="crdroid-classic/android_frameworks_opt_telephony-7,1" remote="crdroid" />
   <project path="frameworks/support" name="crdroidandroid/android_frameworks_support" remote="crdroid" />
   <project path="libcore" name="crdroid-classic/android_libcore" remote="crdroid" />
   <project path="packages/apps/Bluetooth" name="crdroid-classic/android_packages_apps_Bluetooth" remote="crdroid" />
@@ -67,6 +68,7 @@
   <project path="packages/inputmethods/LatinIME" name="crdroid-classic/android_packages_inputmethods_LatinIME" remote="crdroid" />
   <project path="packages/providers/ContactsProvider" name="crdroid-classic/android_packages_providers_ContactsProvider" remote="crdroid" />
   <project path="packages/providers/TelephonyProvider" name="crdroid-classic/android_packages_providers_TelephonyProvider" remote="crdroid" />
+  <project path="packages/services/Mms" name="crdroid-classic/android_packages_services_Mms" remote="crdroid" />
   <project path="packages/services/OmniJaws" name="crdroidandroid/android_packages_services_OmniJaws" remote="crdroid" />
   <project path="packages/services/Telecomm" name="crdroid-classic/android_packages_services_Telecomm" remote="crdroid" />
   <project path="packages/services/Telephony" name="crdroid-classic/android_packages_services_Telephony" remote="crdroid" />
